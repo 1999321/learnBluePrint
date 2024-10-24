@@ -1,0 +1,1 @@
+export * from '../build/HelloWorldTwo/tact_HelloWorldTwo';
